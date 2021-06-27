@@ -1,6 +1,6 @@
 # HackerEarth-Slashing-Prices-Competition
 
-## This is my solution to the competition. I got Rank of 39 out of 1000+ participants
+## This is my solution to the competition. I got Rank 39 out of 1000+ participants
 
 A leading global leader of e-commerce has over 150 million paid subscription users. One of the many perks of the subscription is the privilege of buying products at lower prices. For an upcoming sale, the organization has decided to promote local artisans and their products, to help them through these tough times. However, slashed prices may impact local artists.
 
